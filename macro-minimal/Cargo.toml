@@ -1,0 +1,13 @@
+[package]
+name = "macro-minimal"
+version = "0.1.0"
+edition = "2021"
+
+
+[build-dependencies]
+
+[dev-dependencies]
+
+[dependencies]
+macro_lisp = "0.1.0"
+html-to-string-macro = "0.2.5"

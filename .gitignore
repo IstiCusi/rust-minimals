@@ -1,0 +1,18 @@
+# Ignore the target directory for all Rust projects
+**/target/
+
+# Ignore Cargo.lock if you're creating libraries
+**/Cargo.lock
+
+# Ignore .git directories in subfolders (although they shouldn't be there)
+**/.git/
+
+# Ignore compiled binaries
+**/*.rs.bk
+
+# Optional: Ignore the .idea/ folder if using IntelliJ-based IDEs
+**/.idea/
+
+# Optional: Ignore .DS_Store files on macOS
+**/.DS_Store
+
