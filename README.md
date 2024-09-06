@@ -27,13 +27,11 @@ You're invited to grab a shovel and help out in this growing construction site �
 
 If you're looking for more Rust snippets or want to contribute to other collections, here are a few great resources to check out:
 
-1. **[Rust Easy Snippets](https://github.com/VentGrey/rust-easy-snippets)**: This repository offers simple, essential Rust snippets that focus on performing basic tasks without pulling in unnecessary dependencies. It's perfect for quickly referencing common Rust tasks.
+1. **[Awesome Rust](https://github.com/rust-unofficial/awesome-rust)**: This curated list isn’t focused purely on snippets, but it’s a treasure trove of Rust libraries, tools, and resources that will certainly help you find code examples and ideas to build upon.
 
-2. **[Rust Daily Snippets](https://github.com/rixrix/rust-daily-snippets)**: A collection where the author posts daily Rust snippets, which makes it a great resource for consistent, incremental learning. It’s a practical way to tackle small Rust exercises and challenges regularly.
+2. **[Rust Daily Snippets](https://github.com/rixrix/rust-daily-snippets)**: A collection where the author planed to post daily Rust snippets, which makes it a great resource for consistent, incremental learning. It’s a practical way to tackle small Rust exercises and challenges regularly.
 
 3. **[Competitive Rust Snippets](https://github.com/hatoo/competitive-rust-snippets)**: Focused on competitive programming, this repository features efficient and compact Rust snippets specifically designed for algorithmic challenges. A must-check if you’re into problem-solving and optimization&#8203;:contentReference[oaicite:0]{index=0}.
-
-4. **[Awesome Rust](https://github.com/rust-unofficial/awesome-rust)**: This curated list isn’t focused purely on snippets, but it’s a treasure trove of Rust libraries, tools, and resources that will certainly help you find code examples and ideas to build upon.
 
 Feel free to explore these collections for inspiration and add to your own set of minimal Rust code snippets!
 
